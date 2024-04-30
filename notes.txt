@@ -1,0 +1,5 @@
+- "go run FILE_NAME.go" -> execute the program
+- "go module init MODULE_NAME" -> create go.mod file
+- "go build" -> generate the binary file of the program in the current folder
+- "go install" -> generate the binary file of the program in the default go directory (/go/bin on mac)
+- "go get URL_PLUS_PACKAGE_NAME" -> download a project dependency
